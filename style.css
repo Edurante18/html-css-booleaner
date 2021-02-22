@@ -1,0 +1,39 @@
+.pattern {
+    background-image: url(img/pattern.png);
+    background-repeat: repeat-x;
+    background-size: contain;
+    background-color:#4EA0FF;
+    opacity: 0,0;
+    padding-left: 80px;padding-top: 30px;padding-bottom: 10px;
+   
+}
+
+.pattern img {
+    width: 10%;
+}
+
+.color-grey {
+    color: grey;
+}
+
+#color-blue {
+    color: lightseagreen;
+}
+
+.highlighted {
+    background-color: yellow;
+}
+
+table {
+    align-content: center;
+}
+
+thead {
+    color: white;
+    background-color: #20A9E5
+}
+
+.row-1, .row-3 {
+    background-color: #B1E5F2;
+}
+
