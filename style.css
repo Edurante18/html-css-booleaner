@@ -1,11 +1,16 @@
+.caption, main, footer {
+    margin-left: 100px;
+}
+
 .pattern {
     background-image: url(img/pattern.png);
     background-repeat: repeat-x;
     background-size: contain;
     background-color:#4EA0FF;
     opacity: 0,0;
-    padding-left: 80px;padding-top: 30px;padding-bottom: 10px;
-   
+    padding-left: 100px;
+    padding-top: 30px;
+    padding-bottom: 10px;
 }
 
 .pattern img {
@@ -40,7 +45,6 @@ thead {
 .container {
     width: 311px;
     height: 207px;
-    margin-bottom: 3px;
 }
 
 .image-1, .image-2 {
@@ -56,4 +60,8 @@ thead {
 
 .image-2 {
     background-image: url(img/graph.jpg);
+}
+
+footer div {
+    margin-bottom: 5px;
 }
