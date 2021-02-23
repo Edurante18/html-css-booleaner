@@ -2,17 +2,18 @@
     margin-left: 100px;
 }
 
+/*TEXTURE*/
 .pattern {
     background-image: url(img/pattern.png);
     background-repeat: repeat-x;
     background-size: contain;
     background-color:#4EA0FF;
-    opacity: 0,0;
     padding-left: 100px;
     padding-top: 30px;
     padding-bottom: 10px;
 }
 
+/*LOGO*/
 .pattern img {
     width: 10%;
 }
