@@ -2,6 +2,7 @@
     margin-left: 100px;
 }
 
+/*TEXTURE*/
 .pattern {
     background-image: url(img/pattern.png);
     background-repeat: repeat-x;
@@ -13,6 +14,7 @@
     padding-bottom: 10px;
 }
 
+/*LOGO*/
 .pattern img {
     width: 10%;
 }
